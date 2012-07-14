@@ -1,0 +1,5 @@
+c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\bin\MachineProject.dll
+c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\bin\MachineProject.pdb
+c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\obj\Debug\MachineProject.dll
+c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\obj\Debug\MachineProject.pdb
