@@ -68,13 +68,13 @@ namespace MachineProject
                 Session.Add("Position", dt.Rows[0][2].ToString());
                 Session.Add("IDNumber", dt.Rows[0][0].ToString());
                 sdaValidateAccount.Dispose();
-                Response.Redirect("WebForm2.aspx");
+                
 
                 string strPosition = Session["Position"].ToString();
 
                 if (strPosition == "Student")
                 {
-                    
+                    Response.Redirect("WebForm2.aspx");
 
                 }
 
