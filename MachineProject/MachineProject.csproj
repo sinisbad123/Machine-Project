@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BlueFormFillUp.aspx" />
+    <Content Include="logo.png" />
     <Content Include="ProfileInformationEditing.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -125,7 +126,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>2524</DevelopmentServerPort>
+          <DevelopmentServerPort>2455</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>

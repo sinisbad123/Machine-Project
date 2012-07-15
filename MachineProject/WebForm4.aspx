@@ -1,16 +1,33 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm4.aspx.cs" Inherits="MachineProject.WebForm4" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Blue Form</title>
+<link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
 </head>
+
 <body>
-    <form id="form1" runat="server">
-    <div>
+    <form id="form2" runat="server">
+<div id="head">
+ <div id="head_cen">
+  <div id="head_sup" class="head_height">
     
+  <br />
+  <br />
+  <br />
+
+    <img src=logo.png />
         <table style="width:100%;">
+            <tr>
+                <td>
+                    &nbsp;</td>
+                <td align="center">
+                    &nbsp;</td>
+                <td>
+                    &nbsp;</td>
+            </tr>
             <tr>
                 <td>
                     &nbsp;</td>
@@ -41,12 +58,13 @@
                     &nbsp;</td>
                 <td align="center">
                     <asp:Button ID="Button1" runat="server" onclick="Button1_Click" 
-                        Text="Approve" />
+                        Text="Approve" Width="92px" />
 &nbsp;&nbsp;
-                    <asp:Button ID="Button2" runat="server" onclick="Button2_Click" Text="Deny" />
+                    <asp:Button ID="Button2" runat="server" onclick="Button2_Click" Text="Deny" 
+                        Width="76px" />
 &nbsp;&nbsp;
                     <asp:Button ID="Button3" runat="server" onclick="Button3_Click" 
-                        Text="Log-out" />
+                        Text="Log-out" Width="89px" />
                 </td>
                 <td>
                     &nbsp;</td>
@@ -60,7 +78,8 @@
                     &nbsp;</td>
             </tr>
         </table>
-    </div>
+ </div>
+</div>
     </form>
 </body>
 </html>

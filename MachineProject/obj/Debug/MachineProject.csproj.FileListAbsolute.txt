@@ -3,3 +3,13 @@ c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject
 c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\obj\Debug\ResolveAssemblyReference.cache
 c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\obj\Debug\MachineProject.dll
 c:\users\seb\documents\visual studio 2010\Projects\MachineProject\MachineProject\obj\Debug\MachineProject.pdb
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MachineProject\bin\MachineProject.dll
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MachineProject\bin\MachineProject.pdb
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MachineProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MachineProject\obj\Debug\MachineProject.dll
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MachineProject\obj\Debug\MachineProject.pdb
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MPP\MachineProject\bin\MachineProject.dll
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MPP\MachineProject\bin\MachineProject.pdb
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MPP\MachineProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MPP\MachineProject\obj\Debug\MachineProject.dll
+C:\Documents and Settings\Adminator\My Documents\Visual Studio 2010\Projects\MPP\MachineProject\obj\Debug\MachineProject.pdb

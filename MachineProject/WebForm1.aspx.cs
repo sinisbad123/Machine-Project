@@ -39,24 +39,12 @@ namespace MachineProject
         {
             string strValidateAccount = "Select * from tblAccount Where UserName = '" + txtUserName.Text + "' AND Password = '" + txtPassword.Text + "'";
 
-            
-            
-
             //GetPosition();
 
             scnMarcus.Open();
 
             SqlCommand scmValidateACcount = new SqlCommand(strValidateAccount, scnMarcus);
             SqlDataReader sdrValidateAccount = scmValidateACcount.ExecuteReader();
-            
-
-
-
-            
-
-            
-
-           
 
 
             if (sdrValidateAccount.HasRows)
@@ -68,7 +56,7 @@ namespace MachineProject
                 Session.Add("Position", dt.Rows[0][2].ToString());
                 Session.Add("IDNumber", dt.Rows[0][0].ToString());
                 sdaValidateAccount.Dispose();
-                
+
 
                 string strPosition = Session["Position"].ToString();
 
@@ -95,7 +83,7 @@ namespace MachineProject
             else
             {
                 Response.Redirect("WebForm5.aspx");
- 
+
             }
 
             scnMarcus.Close();
